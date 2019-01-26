@@ -54,7 +54,8 @@ class _MyHomePageState extends State<MyHomePage> {
       // Appbar es la barra azul
       appBar: AppBar(
         // Tiene como parametro un texto constante
-        title: const Text('Project: Pepper'),
+        title: const Text('Project: Overfl0w'),
+        backgroundColor: Colors.red,
       ),
       // Cuerpo de la ventana
       // Si el modelo todavia esta cargando, generamos un widget que lo refleje
